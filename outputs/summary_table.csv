@@ -1,0 +1,4 @@
+"measurement","n","mean_mmHg","sd_mmHg"
+"Before",40,140.09,11.78
+"After",40,134.76,13.63
+"Change: after minus before",40,-5.33,6.38
